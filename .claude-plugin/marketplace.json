@@ -1,0 +1,21 @@
+{
+  "name": "junie-plugin-cc",
+  "owner": {
+    "name": "santiquiroz"
+  },
+  "metadata": {
+    "description": "JetBrains Junie plugin for Claude Code: delegate bounded coding tasks to the Junie CLI.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "junie",
+      "description": "Delegate bounded coding tasks and read-only second opinions to JetBrains Junie CLI in headless mode, with disposable worktree for read-only runs.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Santiago Quiroz Upegui"
+      },
+      "source": "./"
+    }
+  ]
+}

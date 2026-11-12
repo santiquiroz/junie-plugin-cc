@@ -1,0 +1,10 @@
+{
+  "name": "junie",
+  "version": "0.1.0",
+  "description": "Delegate bounded coding tasks and read-only second opinions from Claude Code to JetBrains Junie CLI in headless mode.",
+  "author": {
+    "name": "Santiago Quiroz Upegui"
+  },
+  "repository": "https://github.com/santiquiroz/junie-plugin-cc",
+  "license": "MIT"
+}
